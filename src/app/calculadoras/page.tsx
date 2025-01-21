@@ -1,7 +1,6 @@
 import React from "react";
-import { CompoundInterestCalculator } from "./calculadoras/CompoundInterestCalculator";
-import {SavingsCalculator  } from "./calculadoras/SavingsCalculator";
-import { Footer } from "../ui/Footer";
+import { CompoundInterestCalculator } from "./CompoundInterestCalculator";
+import {SavingsCalculator  } from "./SavingsCalculator";
 
 export default function Home() {
 
